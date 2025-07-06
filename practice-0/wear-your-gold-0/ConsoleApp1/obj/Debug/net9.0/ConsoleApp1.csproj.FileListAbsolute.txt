@@ -1,0 +1,14 @@
+/Users/xlanky/Desktop/wear-your-gold-0/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1
+/Users/xlanky/Desktop/wear-your-gold-0/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.deps.json
+/Users/xlanky/Desktop/wear-your-gold-0/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/Users/xlanky/Desktop/wear-your-gold-0/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.dll
+/Users/xlanky/Desktop/wear-your-gold-0/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.pdb
+/Users/xlanky/Desktop/wear-your-gold-0/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xlanky/Desktop/wear-your-gold-0/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/xlanky/Desktop/wear-your-gold-0/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/Users/xlanky/Desktop/wear-your-gold-0/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/xlanky/Desktop/wear-your-gold-0/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.dll
+/Users/xlanky/Desktop/wear-your-gold-0/ConsoleApp1/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/Users/xlanky/Desktop/wear-your-gold-0/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
+/Users/xlanky/Desktop/wear-your-gold-0/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/Users/xlanky/Desktop/wear-your-gold-0/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
